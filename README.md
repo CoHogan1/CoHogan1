@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+
+<a href='http://www.linkedin.com/in/conner-hogan-40b39b37' target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/68661954/161889212-5425ea9e-d818-4c3b-bf6d-6e0f85b1c833.png" width="60" height="30" alt="linkedin logo"></img></a> <a href="https://www.hackerrank.com/Connerrhogan" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/68661954/161890206-475f1533-15cc-4b92-9274-ee1a101f9e7c.png" alt="hackerrank logo" width="60" height="30" ></img></a>  <a href="https://zen-leavitt-83a107.netlify.app/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/68661954/161892520-579df3f5-2f38-42be-8811-838d10d24caa.jpg" alt="portfolio icon" width="60" height="30" ></img></a>
+
+
 
 <!--
 **CoHogan1/CoHogan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
